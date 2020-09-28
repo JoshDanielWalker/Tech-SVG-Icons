@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="86" height="37" viewBox="0 0 86 37">
-  <g id="terraform" transform="translate(0.098 -0.282)">
-    <rect id="box" width="86" height="37" rx="10" transform="translate(-0.098 0.282)"/>
-    <g id="terraform-2" data-name="terraform" transform="translate(30.715 4.648)">
-      <path id="Path_230" data-name="Path 230" d="M8.328,4.758l7.865,4.494V18.08L8.328,13.586V4.758ZM16.61,18.04l7.8-4.481V4.789l-7.8,4.45v8.8ZM0,8.828l7.865,4.494V4.494L0,0V8.828ZM8.328,22.933l7.865,4.494V18.569L8.328,14.075v8.859Z" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="123" height="55" viewBox="0 0 123 55">
+  <g id="terraform" transform="translate(0.209 -0.459)">
+    <rect id="box" width="123" height="55" rx="10" transform="translate(-0.209 0.459)"/>
+    <g id="terraform-2" data-name="terraform" transform="translate(43.894 7.608)">
+      <path id="Path_230" data-name="Path 230" d="M12.018,6.867l11.35,6.485v12.74l-11.35-6.485V6.867ZM23.971,26.035l11.252-6.466V6.911L23.971,13.333v12.7ZM0,12.74l11.35,6.485V6.485L0,0V12.74ZM12.018,33.1l11.35,6.485V26.8l-11.35-6.485V33.1Z" fill="#fff"/>
     </g>
   </g>
 </svg>

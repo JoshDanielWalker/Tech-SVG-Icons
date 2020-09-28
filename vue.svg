@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="85" height="40" viewBox="0 0 85 40">
-  <g id="vue" transform="translate(0.058 0.266)">
-    <rect id="box" width="85" height="40" rx="10" transform="translate(-0.058 -0.266)" fill="#41b883"/>
-    <g id="vue-2" data-name="vue" transform="translate(27.656 7.7)">
-      <path id="Path_134" data-name="Path 134" d="M23.68-.34h5.995L14.987,25.438,0-.34H11.39l3.6,5.995,3.3-5.995Z" transform="translate(0 0.34)" fill="#41b883"/>
-      <path id="Path_135" data-name="Path 135" d="M0-.34,14.987,25.438,29.675-.34H23.68L14.987,15.247,5.995-.34Z" transform="translate(0 0.34)" fill="#fff"/>
-      <path id="Path_136" data-name="Path 136" d="M50.991-.34l8.992,15.587L68.676-.34h-5.4l-3.3,5.995L56.386-.34Z" transform="translate(-44.996 0.34)" fill="#35495e"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="54" viewBox="0 0 121 54">
+  <g id="vue" transform="translate(0.056 -0.481)">
+    <rect id="box" width="121" height="54" rx="10" transform="translate(-0.056 0.481)" fill="#41b883"/>
+    <g id="vue-2" data-name="vue" transform="translate(39.019 10.118)">
+      <path id="Path_134" data-name="Path 134" d="M34.173-.34h8.651l-21.2,37.2L0-.34H16.438l5.191,8.651L26.387-.34Z" transform="translate(0 0.34)" fill="#41b883"/>
+      <path id="Path_135" data-name="Path 135" d="M0-.34l21.629,37.2,21.2-37.2H34.173L21.629,22.153,8.651-.34Z" transform="translate(0 0.34)" fill="#fff"/>
+      <path id="Path_136" data-name="Path 136" d="M50.991-.34,63.968,22.153,76.513-.34H68.726L63.968,8.311,58.777-.34Z" transform="translate(-42.34 0.34)" fill="#35495e"/>
     </g>
   </g>
 </svg>

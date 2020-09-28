@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="85" height="38" viewBox="0 0 85 38">
-  <g id="gitlab" transform="translate(0.029 -0.138)">
-    <rect id="box" width="85" height="38" rx="10" transform="translate(-0.029 0.138)" fill="#fca326"/>
-    <g id="gitlab-2" data-name="gitlab" transform="translate(25.724 4.914)">
-      <path id="Path_214" data-name="Path 214" d="M87.06,109.26h0l5.995-18.584H81.065L87.06,109.26Z" transform="translate(-70.78 -79.155)" fill="#fff" stroke="#fff" stroke-width="1"/>
-      <path id="Path_215" data-name="Path 215" d="M29.546,109.26,23.551,90.676H15.158L29.546,109.26Z" transform="translate(-13.265 -79.155)" fill="#fff" stroke="#fff" stroke-width="1"/>
-      <path id="Path_216" data-name="Path 216" d="M2.243,90.676h0l-1.8,5.7a1.354,1.354,0,0,0,.3,1.5l15.887,11.39L2.243,90.676Z" transform="translate(-0.351 -79.155)" fill="#fff" stroke="#fff" stroke-width="1"/>
-      <path id="Path_217" data-name="Path 217" d="M15.158,11.689h8.393L19.954.6a.633.633,0,0,0-1.2,0l-3.6,11.091Z" transform="translate(-13.266 -0.169)" fill="#fff" stroke="#fff" stroke-width="1"/>
-      <path id="Path_218" data-name="Path 218" d="M128.113,109.26l5.995-18.584H142.5L128.113,109.26Z" transform="translate(-111.833 -79.155)" fill="#fff" stroke="#fff" stroke-width="1"/>
-      <path id="Path_219" data-name="Path 219" d="M142.5,90.676h0l1.8,5.7a1.354,1.354,0,0,1-.3,1.5l-15.887,11.39L142.5,90.676Z" transform="translate(-111.833 -79.155)" fill="#fff" stroke="#fff" stroke-width="1"/>
-      <path id="Path_220" data-name="Path 220" d="M183.554,11.689h-8.393L178.758.6a.633.633,0,0,1,1.2,0l3.6,11.091Z" transform="translate(-152.886 -0.169)" fill="#fff" stroke="#fff" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="122" height="56" viewBox="0 0 122 56">
+  <g id="gitlab" transform="translate(-0.434 -0.361)">
+    <rect id="box" width="122" height="56" rx="10" transform="translate(0.434 0.361)" fill="#fca326"/>
+    <g id="gitlab-2" data-name="gitlab" transform="translate(37.139 7.06)">
+      <path id="Path_214" data-name="Path 214" d="M89.716,117.5h0l8.651-26.819h-17.3L89.716,117.5Z" transform="translate(-66.222 -74.05)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_215" data-name="Path 215" d="M35.921,117.5,27.27,90.676H15.158L35.921,117.5Z" transform="translate(-12.427 -74.05)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_216" data-name="Path 216" d="M3.082,90.676h0l-2.6,8.219a1.953,1.953,0,0,0,.433,2.163L23.845,117.5,3.082,90.676Z" transform="translate(-0.351 -74.05)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_217" data-name="Path 217" d="M15.158,16.795H27.27L22.079.789a.913.913,0,0,0-1.73,0L15.158,16.795Z" transform="translate(-12.427 -0.169)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_218" data-name="Path 218" d="M128.113,117.5l8.651-26.819h12.112L128.113,117.5Z" transform="translate(-104.619 -74.05)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_219" data-name="Path 219" d="M148.876,90.676h0l2.6,8.219a1.953,1.953,0,0,1-.433,2.163L128.113,117.5l20.763-26.819Z" transform="translate(-104.619 -74.05)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_220" data-name="Path 220" d="M187.273,16.795H175.161L180.352.789a.913.913,0,0,1,1.73,0l5.191,16.005Z" transform="translate(-143.015 -0.169)" fill="#fff" stroke="#fff" stroke-width="1"/>
     </g>
   </g>
 </svg>

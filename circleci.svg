@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="84" height="38" viewBox="0 0 84 38">
-  <g id="circleci" transform="translate(0 -0.138)">
-    <rect id="box" width="84" height="38" rx="10" transform="translate(0 0.138)" fill="#343434"/>
-    <g id="circleci-2" data-name="circleci" transform="translate(28.758 6.393)">
-      <circle id="Ellipse_5" data-name="Ellipse 5" cx="3" cy="3" r="3" transform="translate(10.242 10.745)" fill="#fff"/>
-      <path id="Path_221" data-name="Path 221" d="M.795,10.284v.3a.558.558,0,0,0,.6.6h5.4a.592.592,0,0,0,.6-.3,7.34,7.34,0,0,1,6.594-4.2,7.022,7.022,0,0,1,6.894,7.194,6.767,6.767,0,0,1-6.894,6.894,7.173,7.173,0,0,1-6.594-3.9c-.116-.271-.328-.6-.6-.6h-5.4a.558.558,0,0,0-.6.6c0,.039-.039.261,0,.3A13.621,13.621,0,0,0,13.984,27.37a13.489,13.489,0,0,0,0-26.977A13.447,13.447,0,0,0,.795,10.284Z" transform="translate(-0.778 -0.393)" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="56" viewBox="0 0 121 56">
+  <g id="circleci" transform="translate(0 -0.361)">
+    <rect id="box" width="121" height="56" rx="10" transform="translate(0 0.361)" fill="#343434"/>
+    <g id="circleci-2" data-name="circleci" transform="translate(41.502 9.195)">
+      <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="5" cy="4.5" rx="5" ry="4.5" transform="translate(14.498 15.166)" fill="#fff"/>
+      <path id="Path_221" data-name="Path 221" d="M.8,14.668V15.1a.805.805,0,0,0,.865.865H9.454a.854.854,0,0,0,.865-.433,10.593,10.593,0,0,1,9.517-6.056,10.134,10.134,0,0,1,9.949,10.382,9.766,9.766,0,0,1-9.949,9.949,10.351,10.351,0,0,1-9.517-5.623c-.168-.391-.474-.865-.865-.865H1.668a.805.805,0,0,0-.865.865c0,.056-.056.377,0,.433A19.656,19.656,0,0,0,19.836,39.324a19.466,19.466,0,1,0,0-38.931A19.4,19.4,0,0,0,.8,14.668Z" transform="translate(-0.778 -0.393)" fill="#fff"/>
     </g>
   </g>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="85" height="38" viewBox="0 0 85 38">
-  <g id="istio" transform="translate(0.087 0.057)">
-    <rect id="box" width="85" height="38" rx="10" transform="translate(-0.087 -0.057)" fill="#4d6cac"/>
-    <path id="istio-2" data-name="istio" d="M16.761,57.4,23.655,55V42.114Zm8.393-25.179V55l12.29,2.4ZM17.66,58.6H36.844L23.355,62.5Z" transform="translate(15.581 -28.595)" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="55" viewBox="0 0 121 55">
+  <g id="istio" transform="translate(-0.378 -0.448)">
+    <rect id="box" width="121" height="55" rx="10" transform="translate(0.378 0.448)" fill="#4d6cac"/>
+    <path id="istio-2" data-name="istio" d="M16.761,68.558,26.71,65.1V46.5ZM28.873,32.222V65.1l17.735,3.461ZM18.059,70.288H45.743L26.278,75.912Z" transform="translate(29.035 -26.119)" fill="#fff"/>
   </g>
 </svg>
