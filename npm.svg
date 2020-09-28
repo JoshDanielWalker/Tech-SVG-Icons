@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="281" height="128" viewBox="0 0 281 128">
-  <g id="npm" transform="translate(-232 -163)">
-    <rect id="box" width="281" height="128" rx="10" transform="translate(232 163)" fill="#cb3837"/>
-    <g id="npm-2" data-name="npm" transform="translate(285 201.28)">
-      <path id="Path_85" data-name="Path 85" d="M0-.28v59H49v10H88v-10h88v-59Z" fill="#cb3837"/>
-      <path id="Path_86" data-name="Path 86" d="M33.491,14.21h-19v39h19v-29h10v29h10v-39Z" transform="translate(-4.491 -4.491)" fill="#fff"/>
-      <path id="Path_87" data-name="Path 87" d="M85.79,14.21v49h19v-10h20v-39Zm29,29h-10v-19h10v19Z" transform="translate(-26.79 -4.491)" fill="#fff"/>
-      <path id="Path_88" data-name="Path 88" d="M176.088,14.21h-19v39h19v-29h10v29h10v-29h9v29h10v-39Z" transform="translate(-49.088 -4.491)" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="38" viewBox="0 0 85 38">
+  <g id="npm" transform="translate(0.087 -0.499)">
+    <rect id="box" width="85" height="38" rx="10" transform="translate(-0.087 0.499)" fill="#cb3837"/>
+    <g id="npm-2" data-name="npm" transform="translate(16.456 11.59)">
+      <path id="Path_85" data-name="Path 85" d="M0-.28V17.4H14.688v3h11.69v-3H52.755V-.28Z" transform="translate(0 0.28)" fill="#cb3837"/>
+      <path id="Path_86" data-name="Path 86" d="M20.186,14.21h-5.7V25.9h5.7V17.208h3V25.9h3V14.21Z" transform="translate(-11.493 -11.213)" fill="#fff"/>
+      <path id="Path_87" data-name="Path 87" d="M85.79,14.21V28.9h5.7v-3H97.48V14.21ZM94.482,22.9h-3v-5.7h3v5.7Z" transform="translate(-68.104 -11.213)" fill="#fff"/>
+      <path id="Path_88" data-name="Path 88" d="M162.784,14.21h-5.7V25.9h5.7V17.208h3V25.9h3V17.208h2.7V25.9h3V14.21Z" transform="translate(-124.716 -11.213)" fill="#fff"/>
     </g>
   </g>
 </svg>
