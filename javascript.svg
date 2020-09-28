@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281" height="128" viewBox="0 0 281 128">
+  <g id="javascript" transform="translate(-232 -163)">
+    <rect id="box" width="281" height="128" rx="10" transform="translate(232 163)" fill="#f7df1e"/>
+    <g id="javascript-2" data-name="javascript" transform="translate(331 185.428)">
+      <path id="Path_128" data-name="Path 128" d="M0-.428H83v83H0Z" fill="#fff"/>
+      <path id="Path_129" data-name="Path 129" d="M67.6,148.192l6-3c1.219,2.161,2.34,4,5,4,2.55,0,4-1.12,4-5v-27h8v27c0,8.037-5.127,12-12,12-6.207,0-9.171-4.12-11-8" transform="translate(-45.6 -79.62)" fill="#f7df1e"/>
+      <path id="Path_130" data-name="Path 130" d="M152.231,147.26l6-4c1.663,2.716,4.176,5,8,5,3.215,0,5-1.783,5-4,0-2.661-1.453-3.449-5-5l-2-1c-5.6-2.383-10-5.681-10-12,0-5.82,5.071-10,12-10,4.933,0,8.451,1.51,11,6l-6,4a4.989,4.989,0,0,0-5-3c-2.273,0-4,1.116-4,3,0,2.328,1.675,3.559,5,5l2,1c6.6,2.827,10,5.515,10,12,0,6.984-5.628,11-13,11-7.205,0-11.728-3.51-14-8" transform="translate(-103.231 -78.689)" fill="#f7df1e"/>
+    </g>
+  </g>
+</svg>

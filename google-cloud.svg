@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281" height="128" viewBox="0 0 281 128">
+  <g id="google-cloud" transform="translate(-232 -163)">
+    <g id="box" transform="translate(232 163)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="281" height="128" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="280" height="127" rx="9.5" fill="none"/>
+    </g>
+    <g id="google-cloud-2" data-name="google-cloud" transform="translate(310 176.738)">
+      <path id="Path_6" data-name="Path 6" d="M98.782,27.262l11-10v-5c-19.716-17.928-51.227-16.137-69,4-4.937,5.593-8.047,12.8-10,20l4-1,21-3,2-2a27.089,27.089,0,0,1,37-3Z" transform="translate(-15.782 0)" fill="#ea4335"/>
+      <path id="Path_7" data-name="Path 7" d="M171.682,49.208a50.216,50.216,0,0,0-15-24l-15,15a28.254,28.254,0,0,1,10,22v2a14.358,14.358,0,0,1,14,14c0,7.464-6.536,13-14,13h-27l-3,3v16l3,3h27c19.414.151,34.849-15.586,35-35a34.049,34.049,0,0,0-15-29" transform="translate(-62.682 -12.946)" fill="#4285f4"/>
+      <path id="Path_8" data-name="Path 8" d="M49.5,181.849h27v-22h-27a15.237,15.237,0,0,1-6-1l-3,1-11,11-1,4a34.271,34.271,0,0,0,21,7" transform="translate(-14.501 -81.587)" fill="#34a853"/>
+      <path id="Path_9" data-name="Path 9" d="M35,61.822a34.892,34.892,0,0,0-35,35,36.094,36.094,0,0,0,14,28l15-16c-6.8-3.073-9.073-11.2-6-18a13.759,13.759,0,0,1,18-7c3,1.354,4.646,4,6,7l16-16c-6.671-8.721-17.02-13.039-28-13" transform="translate(0 -31.56)" fill="#fbbc05"/>
+    </g>
+  </g>
+</svg>

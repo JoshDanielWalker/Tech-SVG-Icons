@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281" height="128" viewBox="0 0 281 128">
+  <g id="gatsby" transform="translate(-232 -163)">
+    <rect id="box" width="281" height="128" rx="10" transform="translate(232 163)" fill="#744c9e"/>
+    <g id="gatsby-2" data-name="gatsby" transform="translate(328.387 170.815)">
+      <path id="Path_127" data-name="Path 127" d="M44.613.415c-24.415,0-45,19.585-45,44s20.585,44,45,44a44,44,0,0,0,0-88Zm-35,44,34,35C24.807,79.17,9.858,63.221,9.613,44.415Zm42,34-41-42a34.956,34.956,0,0,1,34-27,34.291,34.291,0,0,1,28,14l-5,5c-5.121-7.343-13.369-13-23-13a29.087,29.087,0,0,0-27,19l36,36c8.816-3.192,15.729-9.783,18-19h-15v-7h22A34.956,34.956,0,0,1,51.613,78.415Z" transform="translate(0 11.769)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

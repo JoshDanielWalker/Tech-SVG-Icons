@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281" height="128" viewBox="0 0 281 128">
+  <g id="gitlab" transform="translate(-232 -163)">
+    <rect id="box" width="281" height="128" rx="10" transform="translate(232 163)" fill="#fca326"/>
+    <g id="gitlab-2" data-name="gitlab" transform="translate(317.836 176.896)">
+      <path id="Path_214" data-name="Path 214" d="M101.065,152.676h0l20-62h-40l20,62Z" transform="translate(-46.401 -52.072)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_215" data-name="Path 215" d="M63.158,152.676l-20-62h-28l48,62Z" transform="translate(-8.494 -52.072)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_216" data-name="Path 216" d="M6.664,90.676h0l-6,19c-.556,1.711-.455,3.943,1,5l53,38-48-62Z" transform="translate(0 -52.072)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_217" data-name="Path 217" d="M15.158,38.6h28l-12-37a2.111,2.111,0,0,0-4,0l-12,37Z" transform="translate(-8.494 0)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_218" data-name="Path 218" d="M128.113,152.676l20-62h28l-48,62Z" transform="translate(-73.449 -52.072)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_219" data-name="Path 219" d="M176.113,90.676h0l6,19c.556,1.711.455,3.943-1,5l-53,38,48-62Z" transform="translate(-73.449 -52.072)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Path_220" data-name="Path 220" d="M203.161,38.6h-28l12-37a2.111,2.111,0,0,1,4,0l12,37Z" transform="translate(-100.497 0)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

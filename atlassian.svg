@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281" height="128" viewBox="0 0 281 128">
+  <g id="atlassian" transform="translate(-232 -163)">
+    <rect id="box" width="281" height="128" rx="10" transform="translate(232 163)" fill="#2681ff"/>
+    <g id="atlassian-2" data-name="atlassian" transform="translate(332.062 185.699)">
+      <path id="Path_208" data-name="Path 208" d="M23.938,115.592c-1.222-1.305-3.17-.661-4,1l-20,40a1.8,1.8,0,0,0,0,2,2.214,2.214,0,0,0,2,1h28c.913.021,2.611-.174,3-1C38.955,146.152,34.507,126.884,23.938,115.592Z" transform="translate(0 -78.292)" fill="#fff"/>
+      <path id="Path_209" data-name="Path 209" d="M103.585,1.3a52.488,52.488,0,0,0-3,52l13,27c.406.811,2.093,1,3,1h27a2.214,2.214,0,0,0,2-1c.436-.706,1.371-1.257,1-2,0,0-38.056-75.121-39-77C106.741-.381,104.67-.419,103.585,1.3Z" transform="translate(-64.646 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

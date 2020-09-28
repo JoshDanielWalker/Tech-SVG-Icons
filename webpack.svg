@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281" height="128" viewBox="0 0 281 128">
+  <g id="webpack" transform="translate(-232 -163)">
+    <rect id="box" width="281" height="128" rx="10" transform="translate(232 163)" fill="#1c78c0"/>
+    <g id="webpack-2" data-name="webpack" transform="translate(328 176.829)">
+      <path id="Path_94" data-name="Path 94" d="M45,.171l44,25v50l-44,26-45-26v-50Z" fill="#fff"/>
+      <path id="Path_95" data-name="Path 95" d="M91.141,87.431l-35,20v-16l22-12Zm3-2v-42l-13,7v27Zm-76,2,35,20v-16l-22-12-13,8Zm-3-2v-42l13,7v27l-13,8Zm2-45,36-20v15l-23,13h0l-13-8Zm75,0-36-20v15l23,13h0l13-8Z" transform="translate(-10.141 -13.26)" fill="#8ed6fb"/>
+      <path id="Path_96" data-name="Path 96" d="M83,121.469l-22-12v-24l22,13v23Zm3,0,22-12v-24l-22,13Zm-23-39,21-11,22,11-22,13-21-13Z" transform="translate(-39.999 -46.298)" fill="#1c78c0"/>
+    </g>
+  </g>
+</svg>

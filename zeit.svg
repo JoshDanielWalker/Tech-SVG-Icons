@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="281" height="128" viewBox="0 0 281 128">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.009" y1="1.813" x2="0.418" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="zeit" transform="translate(-232 -163)">
+    <rect id="box" width="281" height="128" rx="10" transform="translate(232 163)" fill="#1a1918"/>
+    <g id="zeit-2" data-name="zeit" transform="translate(328 188)">
+      <path id="Path_62" data-name="Path 62" d="M44,0,88,78H0Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

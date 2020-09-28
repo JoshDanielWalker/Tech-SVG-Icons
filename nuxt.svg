@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281" height="128" viewBox="0 0 281 128">
+  <g id="nuxt" transform="translate(-232 -163)">
+    <rect id="box" width="281" height="128" rx="10" transform="translate(232 163)" fill="#2f495e"/>
+    <g id="nuxt-icon" transform="translate(316 185.453)">
+      <g id="Group_7" data-name="Group 7" transform="translate(0)">
+        <path id="Path_89" data-name="Path 89" d="M34,80.547c-.084-.148.065.157,0,0a8.461,8.461,0,0,1,0-4H7l40-69,13,23,3-7-11-20c-.317-.575-2.705-4-6-4-1.489,0-3.265.952-5,4l-40,71a6.016,6.016,0,0,0,0,6c.75,1.29,2.483,3,6,3H40C36.506,83.547,34.75,81.86,34,80.547Z" transform="translate(0)" fill="#fff" fill-rule="evenodd"/>
+        <path id="Path_90" data-name="Path 90" d="M191.634,90.39l-33-58c-.34-.61-1.694-4-5-4-1.489,0-3.265.952-5,4l-5,7,4,7,6-11,33,57h-13a6.264,6.264,0,0,1,0,3c-.069.2.1.816,0,1h0c-1.665,2.837-5.3,3-6,3h19c.715,0,4.335-.163,6-3C193.373,95.1,193.4,93.415,191.634,90.39Z" transform="translate(-80.634 -15.843)" fill="#fff" fill-rule="evenodd"/>
+        <path id="Path_91" data-name="Path 91" d="M135.722,110.576h0c.1-.184-.069-.8,0-1a6.264,6.264,0,0,0,0-3c-.182-1.019-.469-1.112-1-2l-25-44-4-7-3,7-25,44c-.484.9-.848.99-1,2a8.472,8.472,0,0,0,0,4c.065.157-.084-.148,0,0,.75,1.29,2.483,3,6,3h47c.739,0,4.335-.163,6-3Zm-30-44,23,40h-45Z" transform="translate(-42.722 -30.029)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281" height="128" viewBox="0 0 281 128">
+  <g id="css" transform="translate(-232 -163)">
+    <rect id="box" width="281" height="128" rx="10" transform="translate(232 163)" fill="#2965f1"/>
+    <g id="css-3" transform="translate(328.01 132.643)">
+      <path id="Path_118" data-name="Path 118" d="M43.99,170.476l-36-10-8-90h88l-8,90-36,10Z" transform="translate(0 -26.119)" fill="#264de4"/>
+      <path id="Path_119" data-name="Path 119" d="M157.538,168.422l6-76h-36v84l30-8Z" transform="translate(-83.547 -40.065)" fill="#2965f1"/>
+      <path id="Path_120" data-name="Path 120" d="M53.851,188.68l1,11h24v-11Z" transform="translate(-34.861 -103.323)" fill="#ebebeb"/>
+      <path id="Path_121" data-name="Path 121" d="M48.084,124.34l1,11h26v-11Z" transform="translate(-31.094 -60.983)" fill="#ebebeb"/>
+      <path id="Path_122" data-name="Path 122" d="M81.661,249.058h0l-12-4-1-9h-11l2,18,22,6h0v-11Z" transform="translate(-37.67 -134.701)" fill="#ebebeb"/>
+      <path id="Path_126" data-name="Path 126" d="M153.465,146.34l2-22h-28v11h16l-1,11h-15v11h14l-1,14-13,4v11l23-6v-2l3-29v-3Z" transform="translate(-83.475 -60.983)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

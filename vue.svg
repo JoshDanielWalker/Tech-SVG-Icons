@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281" height="128" viewBox="0 0 281 128">
+  <g id="vue" transform="translate(-232 -163)">
+    <rect id="box" width="281" height="128" rx="10" transform="translate(232 163)" fill="#41b883"/>
+    <g id="vue-2" data-name="vue" transform="translate(323 187.34)">
+      <path id="Path_134" data-name="Path 134" d="M79-.34H99l-49,86L0-.34H38l12,20,11-20Z" fill="#41b883"/>
+      <path id="Path_135" data-name="Path 135" d="M0-.34l50,86,49-86H79l-29,52L20-.34Z" fill="#fff"/>
+      <path id="Path_136" data-name="Path 136" d="M50.991-.34l30,52,29-52h-18l-11,20-12-20Z" transform="translate(-30.991)" fill="#35495e"/>
+    </g>
+  </g>
+</svg>
